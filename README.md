@@ -1,2 +1,7 @@
-# demo-estudio-juridico-gascon
-Demo web para Estudio Jurídico Gascón — diseñada por eterlab.
+# Estudio Jurídico Gascón
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
